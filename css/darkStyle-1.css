@@ -1,0 +1,209 @@
+body.dark {
+    background-color: #151515;
+    /*color: #fff;*/
+}
+
+body.dark .banner-divided .main-nav {
+    background-color: #222;
+}
+
+body.dark .icard-nav-btn span {
+    background: #fff;
+}
+
+body.dark .banner-img{
+    background-image: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(../img/banner-v-1.jpeg) !important;
+}
+
+body.dark .text-gray {
+    color: #fff !important;
+}
+
+body.dark .banner-sub-title{
+    color: #e9e9e9;
+}
+
+body.dark .about-sec{
+    background-color: #222 !important;
+}
+
+body.dark .about-sec h2{
+    color: #fff !important;
+}
+
+body.dark .about-sec p{
+    color: #e9e9e9;
+}
+
+body.dark .about-sec .my-skill {
+    background-color: rgba(255,255,255,.1);
+}
+
+body.dark .about-sec .my-skill .skill-label{
+    color: #e9e9e9;
+}
+
+body.dark .feature-one-wrap .text-dark{
+    color: #e9e9e9 !important;
+}
+
+body.dark .feature-one-wrap:hover {
+    box-shadow: 0px 0px 50px 0px rgba(255, 255, 255, 0.08);
+}
+
+body.dark .services-sec .h1{
+    color: #fff !important;
+}
+
+body.dark .services-sec p{
+    color: #e9e9e9;
+}
+
+body.dark .services-sec .service{
+    background: #222 !important;
+}
+
+body.dark .services-sec .service:hover {
+    box-shadow: 0px 0px 50px 0px rgba(255, 255, 255, 0.08);
+}
+
+body.dark .services-sec .service:hover i {
+    /*box-shadow: 0 5px 36px rgba(11, 122, 181, 0.5);*/
+}
+
+body.dark .services-sec .service .service-title{
+    color: #fff !important;
+}
+
+body.dark .services-sec .service p{
+    color: #e9e9e9 !important;
+}
+
+body.dark .portfolio-sec{
+    background: #222 !important;
+}
+
+body.dark .portfolio-sec .h1{
+    color: #fff !important;
+}
+
+body.dark .portfolio-sec p{
+    color: #e9e9e9 !important;
+}
+
+body.dark .portfolio-sec .filters-list li {
+    color: #e9e9e9;
+    border: solid 1px rgba(255,255,255,.1);
+}
+
+body.dark .portfolio-sec .btn-line{
+    border-color: rgba(255,255,255,.1) !important;
+    color: #e9e9e9 !important;
+}
+
+body.dark .testimonials-sec .h1{
+    color: #fff !important;
+}
+
+body.dark .testimonials-sec .page-header-one p{
+    color: #e9e9e9 !important;
+}
+
+body.dark .testimonials-sec .testimonial{
+    background: #222 !important;
+}
+
+body.dark .testimonials-sec .testimonial .client-details strong{
+    color: #fff !important;
+}
+
+body.dark .testimonials-sec .testimonial blockquote p{
+    color: #e9e9e9 !important;
+}
+
+body.dark .testimonials-sec .testimonial:after {
+    font-family: 'FontAwesome';
+    content: "\f10d";
+    font-size: 23px;
+    line-height: 1;
+    position: absolute;
+    bottom: 13px;
+    right: 20px;
+    color: #eee;
+    color: rgba(255,255,255,.1);
+}
+
+body.dark .cv-section{
+    background: #222 !important;
+}
+
+body.dark .cv-section .h1{
+    color: #fff !important;
+}
+
+body.dark .cv-section p{
+    color: #e9e9e9 !important;
+}
+
+body.dark .cv-section .btn-line{
+    background-color: #e9e9e9;
+    border-color: rgba(0,0,0,.1);
+    color: #292a2d;
+    box-shadow: none;
+}
+
+body.dark .contact1{
+    background: #151515 !important;
+}
+
+body.dark .contact1 .iconbox i {
+    background: #222 !important;
+}
+
+body.dark .contact1 .iconbox-title{
+    color: #fff !important;
+}
+
+body.dark .contact1 .container-contact1 {
+    background: #222;
+}
+
+body.dark .contact1 .container-contact1 .contact1-form-title{
+    color: #fff !important;
+}
+
+body.dark .contact1 .container-contact1 input.input1 {
+    background: #151515 !important;
+    color: #e9e9e9 !important;
+}
+
+body.dark .contact1 .container-contact1 textarea.input1{
+    background: #151515 !important;
+    color: #e9e9e9 !important;
+}
+
+body.dark .site-footer{
+    background: #222;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
